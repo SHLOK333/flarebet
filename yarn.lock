@@ -2501,7 +2501,7 @@ gopd@^1.2.0:
   resolved "https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz"
   integrity sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==
 
-"gradient-avatar@git+https://github.com/blockscout/gradient-avatar.git":
+"gradient-avatar": "https://github.com/blockscout/gradient-avatar.git":
   version "1.0.3"
   resolved "git+ssh://git@github.com/blockscout/gradient-avatar.git#86810368c2581d2dc3aca089dc648336c8e17045"
   dependencies:
