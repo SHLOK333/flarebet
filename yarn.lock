@@ -2503,7 +2503,7 @@ gopd@^1.2.0:
 
 "gradient-avatar": "https://github.com/blockscout/gradient-avatar.git":
   version "1.0.3"
-  resolved "git+ssh://git@github.com/blockscout/gradient-avatar.git#86810368c2581d2dc3aca089dc648336c8e17045"
+  resolved "https://github.com/blockscout/gradient-avatar.git#86810368c2581d2dc3aca089dc648336c8e17045"
   dependencies:
     hsl-rgb "^1.0.0"
     hsl-triad "^1.0.0"
